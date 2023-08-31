@@ -1,5 +1,5 @@
-# Road-Land-Detection
-Road-Land-Detection using OpenCV and Numpy
+# Road-Lane-Detection
+<h2>Road-Land-Detection using OpenCV, Numpy, Hough Transformations</h2>
 
 
 __Process followed in order to implement:__
